@@ -1,4 +1,4 @@
-kdd_2014
+Code for winning entry for KDD 2014
 ========
 Let -path be the folder with all the data 
 
